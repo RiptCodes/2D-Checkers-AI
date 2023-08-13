@@ -11,7 +11,7 @@
 🎯 Beyond just creating a game, I've woven together the art of coding, game design, and user experience into a cohesive masterpiece. This project underscores my commitment to innovation and my ability to conceptualize, design, and execute complex projects that blend creativity with technology.
 
 
-#TO RUN
+### TO RUN
 Fork code - Run main.py and it will pop-up with a temporary login screen. To continue either complete login (not cloud) or close tab then play the game :)
 To change bot difficulty you can change the ammount of points the minimax AI compares with. This is in the function "calculate_heuristics"
 
