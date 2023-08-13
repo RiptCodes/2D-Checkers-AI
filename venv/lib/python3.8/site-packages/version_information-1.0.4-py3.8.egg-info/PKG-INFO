@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: version-information
+Version: 1.0.4
+Summary: Version information:
+Home-page: https://github.com/jrjohansson/version_information
+Author: J. Robert Johansson
+Author-email: jrjohansson@gmail.com
+License: BSD
+Description: IPython extension command for displaying version information about selected
+        Python modules.
+        
+Platform: Linux
+Platform: Mac OSX
+Platform: Unix
+Platform: Windows
